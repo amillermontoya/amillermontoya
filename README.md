@@ -1,16 +1,26 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Adams Miller Montoya
 
-<!--
-**amillermontoya/amillermontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con 5 años de experiencia en diversas tecnologías, apasionado por la construcción de soluciones eficientes y escalables. Me especializo en backend y frontend, trabajando con múltiples lenguajes y frameworks.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:**
+  - Java (11, 17) con Quarkus
+  - Go
+  - Python
+
+- **Frontend:**
+  - JavaScript (React, Astro)
+  - TypeScript
+
+## 💡 Sobre mí
+
+Me encanta aprender nuevas tecnologías, optimizar código y desarrollar aplicaciones de alto rendimiento. También disfruto compartir conocimientos y contribuir a la comunidad tecnológica.
+
+📫 **Contáctame:**  
+Si quieres colaborar en algún proyecto o simplemente conversar sobre tecnología, ¡estaré encantado de conectar!
+
+---
+
+✨ *Siempre aprendiendo y mejorando* ✨
+
